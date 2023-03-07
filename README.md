@@ -43,5 +43,5 @@ Sort the listings in alphabetical order by name. Run `node index.js bonus` to te
 - [MDN: Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 - [MDN: String concatenation using `+`](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Strings#concatenation_using)
 - [MDN: Ternary operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
-- **BONUS** [MDN: Array.prototype.sort()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort) (also... just Google this tbh. Javascript is weird!)
+- **BONUS** [MDN: Array.prototype.sort()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort) (also... just Google "JavaScript sort alphabetically" tbh. Javascript is weird!!!)
 

@@ -3,9 +3,7 @@ import people from './people.js'
 const listPeople = (arr) => {
 
     // YOUR CODE HERE
-    return arr.sort((a,b) => a.name < b.name ? -1 : 1).map(person => {
-        return person.name + ", " + person.location + (person.private ? "" : ` (${person.phone})`)
-    })
+    
 }
 
 //////////////////////////////
