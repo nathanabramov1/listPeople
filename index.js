@@ -1,8 +1,9 @@
-import people from './people.js'
+const people = require('./people.js')
 
 const listPeople = (arr) => {
 
     // YOUR CODE HERE
+    return "hello world"
     
 }
 
