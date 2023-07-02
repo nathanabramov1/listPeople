@@ -1,10 +1,10 @@
 const people = require('./people.js')
 
 const listPeople = (arr) => {
-
     // YOUR CODE HERE
-    return "hello world"
-    
+    return arr.map((person) => {
+        return person.name + ", " + person.location + (person.private ? "" : " (" + person.phone + ")")
+    })
 }
 
 //////////////////////////////
